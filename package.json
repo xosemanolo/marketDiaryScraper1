@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon -r esm index.js --ignore db.json"
   },
-  "author": "",
+  "author": "xosemanolo",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0",
